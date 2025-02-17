@@ -1,3 +1,6 @@
 [submodule "密码分析学/24Fall"]
 	path = 密码分析学/24Fall
 	url = https://github.com/KirisameVanilla/Cryptanalysis_of_cryptography.git
+[submodule "软件工程实践/24Fall会议室预订项目"]
+	path = 软件工程实践/24Fall会议室预订项目
+	url = https://github.com/KirisameVanilla/meeting_room_appointment_system.git
